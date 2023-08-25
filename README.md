@@ -1,6 +1,6 @@
 # Weather App using React.js, Tailwind CSS, and API Fetching
 
-![Weather App Screenshot](./Screenshots/Screenshot%20(158).png.png) 
+![Weather App Screenshot](https://github.com/chaudharyarchana/Weather-App/blob/main/Screenshots/Screenshot%20(159).png) 
 Welcome to my Weather App project! This is a simple web application built using React.js, Tailwind CSS, and API fetching to provide users with real-time weather information and hourly temperature charts.
 
 ## Features
