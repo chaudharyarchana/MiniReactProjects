@@ -52,8 +52,8 @@ const WeatherChart = () => {
           }}
           interval={0} 
           padding={{ left: 10, right: 10 }}
-          tick={{ fill: 'blue', fontSize: 13 }}
-          axisLine={{ stroke: 'blue' }}// Display every data point
+          tick={{ fill: 'white', fontSize: 13 }}
+          axisLine={{ stroke: 'white' }}// Display every data point
         />
         <YAxis dataKey="temperature"   hide />
         <Tooltip
@@ -63,7 +63,7 @@ const WeatherChart = () => {
           }}
         />
         <Legend />
-        <Area type="monotone" dataKey="temperature" fill="blue" stroke="blue" name="Hourly Temperature (°C)" fillOpacity={0.3} />
+        <Area type="monotone" dataKey="temperature" fill="white" stroke="white" name="Hourly Temperature (°C)" fillOpacity={0.3} />
       </AreaChart>
     </div>
   );
