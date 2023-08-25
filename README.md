@@ -34,7 +34,9 @@ Welcome to my Weather App project! This is a simple web application built using 
 
 ![Screenshot (160)](https://github.com/chaudharyarchana/Weather-App/assets/73676232/27793cd8-5381-4a9b-8490-12b54e0b3873)
 
-![Screenshot 2](./Screenshots/Screenshot%20(157).png.png)
+
+![Screenshot (159)](https://github.com/chaudharyarchana/Weather-App/assets/73676232/872346f7-5712-45de-9a81-352c1d9e368b)
+
 
 ## Contributing
 
