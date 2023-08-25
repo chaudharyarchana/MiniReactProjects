@@ -32,7 +32,8 @@ Welcome to my Weather App project! This is a simple web application built using 
 ## Screenshots
 
 
-![Screenshot 1](./Screenshots/Screenshot%20(156).png.png)
+![Screenshot (160)](https://github.com/chaudharyarchana/Weather-App/assets/73676232/27793cd8-5381-4a9b-8490-12b54e0b3873)
+
 ![Screenshot 2](./Screenshots/Screenshot%20(157).png.png)
 
 ## Contributing
